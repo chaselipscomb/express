@@ -11,5 +11,5 @@ Step 3: Fill out content of your note and submit
 ![See html file for result](Capture3.PNG)
 
 Step 4: View Notes in View Notes page
-![See html file for result](Capture3.PNG)
+![See html file for result](Capture4.PNG)
 
