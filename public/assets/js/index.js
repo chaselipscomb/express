@@ -7,7 +7,7 @@ var $noteList = $(".list-container .list-group");
 // activeNote is used to keep track of the note in the textarea
 var activeNote = {};
 
-// A function for getting all notes from the databa
+// A function for getting all notes from the datab
 var getNotes = function() {
   return $.ajax({
     url: "/api/notes",
